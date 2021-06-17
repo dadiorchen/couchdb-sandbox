@@ -1,0 +1,19 @@
+{
+  "name": "couchdb-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect-runtime": "^0.10.1",
+    "jest": "^27.0.4",
+    "loglevel": "^1.7.1",
+    "pouchdb": "^7.2.2",
+    "supertest": "^6.1.3"
+  }
+}
